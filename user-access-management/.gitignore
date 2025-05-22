@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+dist/
+build/
+
+# Optional: coverage reports from testing
+coverage/
+
+# Optional: dotenv backups
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
