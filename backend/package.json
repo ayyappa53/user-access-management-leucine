@@ -1,5 +1,5 @@
 {
-  "name": "user-access-management",
+  "name": "backend",
   "version": "1.0.0",
   "description": "A Node.js backend API for a User Access Management System that allows user registration, authentication, software access requests, and approval workflows.",
   "main": "src/index.js",
