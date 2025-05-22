@@ -1,4 +1,4 @@
-````markdown
+
 # User Access Management System
 
 A full-stack application for managing user access to internal software tools with role-based permissions and access request workflows.
@@ -568,5 +568,3 @@ All endpoints return appropriate HTTP status codes:
 
 This project is licensed under the MIT License.
 
-```
-```
